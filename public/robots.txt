@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://www.shubhamtourtravels.com/sitemap.xml
+Sitemap: https://tourarty-main-6y4hn0ymh-ashwani-kumars-projects-9c7fa6ee.vercel.app/sitemap.xml
